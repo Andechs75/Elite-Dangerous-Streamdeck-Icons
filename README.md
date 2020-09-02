@@ -1,7 +1,7 @@
-# Elite-Dangerous-Streamdeck
+# Elite-Dangerous-Streamdeck-Icons
 Steamdeck Icons used for Elite Dangerous 
 
 Icons are used in https://github.com/mhwlng/streamdeck-elite Plugin.
 
-Sources: 
+Additional Sources:
 https://edassets.org/#/
