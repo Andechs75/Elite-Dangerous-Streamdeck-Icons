@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) Jorge Poveda Coma
+Copyright (c) Andechs75
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
