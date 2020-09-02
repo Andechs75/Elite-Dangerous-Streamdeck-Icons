@@ -1,5 +1,8 @@
 # Elite-Dangerous-Streamdeck-Icons
-Steamdeck Icons used for Elite Dangerous 
+Streamdeck Icons used for Elite Dangerous
+
+CMDR Andechs
+
 
 Icons are used in https://github.com/mhwlng/streamdeck-elite Plugin.
 
