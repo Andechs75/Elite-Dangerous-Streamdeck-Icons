@@ -1,5 +1,5 @@
 # Elite-Dangerous-Streamdeck-Icons
-Streamdeck Icons used for Elite Dangerous
+Streamdeck Icons for Elite Dangerous
 
 CMDR Andechs
 
