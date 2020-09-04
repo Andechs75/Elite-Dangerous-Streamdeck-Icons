@@ -11,7 +11,7 @@ CMDR Andechs
 - If u want those icons for the [Streamdeck](https://www.elgato.com/de/gaming/stream-deck), it might be required.
 - If u want those icons for the game and the streamdeck, the game is also needed.
 - If u want those icons reacting to the game, the [Stream-Deck-Plugin](https://github.com/mhwlng/streamdeck-elite) is needed.
-- If u want those icons for anything else, well than anything else is requred.
+- If u want those icons for anything else, than anything else is requred.
 
 ## How to use
 - Copy the icons somewhere on your computer.
