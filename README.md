@@ -15,7 +15,7 @@ CMDR Andechs
 
 ## How to use
 - Copy the icons somewhere on your computer.
-- Use the streamdeck config software to assign the icons for the plugin or for hotkeys. 
+- Use the streamdeck config software to assign icons for the plugin or for hotkeys. 
 
 ## Attributions
 - [u/Neon11234-EU-](https://www.reddit.com/r/EliteDangerous/comments/gvera7/ed_stream_deck_icon_pack_included/), origin of this design.
