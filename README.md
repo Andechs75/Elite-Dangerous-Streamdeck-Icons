@@ -17,8 +17,6 @@ CMDR Andechs
 Well, they are just Images...
 
 ## Attributions
-byu/Neon11234-EU-
-3 months ago
 - [u/Neon11234-EU-](https://www.reddit.com/r/EliteDangerous/comments/gvera7/ed_stream_deck_icon_pack_included/), origin of this design.
 - [u/maximilianyuen](https://www.reddit.com/r/EliteDangerous/comments/g4u7f1/stream_deck_with_elite_didnt_even_know_this_is/), origin of this design.
 - [Elite Dangerous Assets](https://edassets.org/#/), if you search elite related design.
