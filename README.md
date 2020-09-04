@@ -26,4 +26,4 @@ CMDR Andechs
 - [Stream-Deck-Plugin](https://github.com/mhwlng/streamdeck-elite), creator of the awsome plugin.
 
 - [Frontier Developments](https://www.frontier.co.uk/), creators of such a wonderful game.
-- [Streamdeck](https://www.elgato.com/), for the hardware.
+- [Elgato](https://www.elgato.com/), for the hardware.
