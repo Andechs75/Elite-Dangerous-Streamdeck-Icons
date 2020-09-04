@@ -9,12 +9,13 @@ CMDR Andechs
 
 ## Application requirements
 - If u want those icons for the [Streamdeck](https://www.elgato.com/de/gaming/stream-deck), it might be required.
-- If u want those icons for the game and the streamdeck, i highly recoment the [Stream-Deck-Plugin](https://github.com/mhwlng/streamdeck-elite).
-  This plugin enables the streamdeck to react to gamestates and uses your key-bindings. The game is also needed, by the way.
+- If u want those icons for the game and the streamdeck, the game is also needed.
+- If u want those icons reacting to the game, the [Stream-Deck-Plugin](https://github.com/mhwlng/streamdeck-elite) is needed.
 - If u want those icons for anything else, well than anything else is requred.
 
 ## How to use
-Well, they are just Images...
+- Copy the icons somewhere on your computer.
+- Use the streamdeck config software to assign the icons for the plugin or for hotkeys. 
 
 ## Attributions
 - [u/Neon11234-EU-](https://www.reddit.com/r/EliteDangerous/comments/gvera7/ed_stream_deck_icon_pack_included/), origin of this design.
