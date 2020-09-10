@@ -7,6 +7,19 @@ Hi there!
 
 CMDR Andechs
 
+## Preview
+![Main](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/Main.png)
+![Analysis](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/Analysis.png)
+![Hardpoints](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/Hardpoints.png)
+![GalaxyMap](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/GalaxyMap.png)
+![SystemMap](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/SystemMap.png)
+![OrreryMap](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/OrreryMap.png)
+![UIMenu](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/UIMenu.png)
+![Wings](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/Wings.png)
+![Fighters](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/Fighters.png)
+![Cam](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/Cam.png)
+![FSS](https://github.com/Andechs75/Elite-Dangerous-Streamdeck-Icons/blob/master/Picture/FSS.png)
+
 ## Application requirements
 - If u want those icons for the [Streamdeck](https://www.elgato.com/de/gaming/stream-deck), it might be required.
 - If u want those icons for the game and the streamdeck, the game is also needed.
